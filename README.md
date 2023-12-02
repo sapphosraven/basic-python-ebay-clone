@@ -8,4 +8,5 @@ The data is all handled with pandas and several csv files, and the the front end
 any kind of gui at all. I used tkinter for that.
 
 In order for the program to work properly the csv files have to be in the same directory as the program itself and there is no executable thus far.
-Further more there are problems with it considering the data is very vulnerable and the password field does not hide the text
+
+Furthermore there are problems with it considering the data is very vulnerable and the password field does not hide the text
